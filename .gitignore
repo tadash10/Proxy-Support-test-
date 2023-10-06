@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.cache
+*.egg-info
+*.egg
+*.static
+*.media
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+*.swp
+*~
+
+# Ignore virtual environments
+venv/
+env/
