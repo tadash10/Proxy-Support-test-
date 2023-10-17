@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+
 Serverless Function Vulnerability Scanner is a Python script designed to scan serverless functions in cloud environments for security vulnerabilities.
 
 ## Features
